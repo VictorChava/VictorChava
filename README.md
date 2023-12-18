@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning about GitHub.  
+🌱 I’m currently learning about GitHub to include a link to my GitHub profile in my resume.  
 
 
 <!--
